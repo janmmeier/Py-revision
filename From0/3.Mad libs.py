@@ -5,10 +5,9 @@ print("An old silent " + water + "…")
 print("A " + animal + " jumps into the pond, splash!")
 print("Silence again.")
 
-"""
-Furuike ya
-kawazu tobikomu
-mizu no oto
 
--- Basho
-"""
+# Furuike ya
+# kawazu tobikomu
+# mizu no oto
+
+# -- Basho
