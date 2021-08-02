@@ -17,5 +17,7 @@ print(friends.index("Kevin")) #checks if item is in the list and where is it loc
 #.reverse()
 #friends2 = friends.copy() - copies the list
 
-coordinates = (4, 5)
+coordinates = (4, 5) #Tuple is like a list but you cant change whats in a tuple w commands
+coordinates_list = [(4, 5), (1, 80), (34032, 12930)]
+print(coordinates[0])
 
